@@ -56,5 +56,7 @@ New resource group is created
 
 ![gittest](https://user-images.githubusercontent.com/36744983/225171761-5f8bffb5-ebaf-44ec-b647-8adb7526d9be.PNG)
 
+![Capture](https://user-images.githubusercontent.com/36744983/225171899-bb216bb1-5a19-4bc6-ae06-79b3d042a00d.JPG)
+
 
 ```

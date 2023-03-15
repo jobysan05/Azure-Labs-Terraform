@@ -53,6 +53,5 @@ terraform destroy
 # Observation
 New resource group is created
 
-![gittest](https://user-images.githubusercontent.com/36744983/225171605-cdbcf85a-45bc-41a1-a030-6a8af81df44a.PNG)
 
 ```
